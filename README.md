@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashAallo/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/YashAallo/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0368-largest-divisible-subset](https://github.com/YashAallo/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/YashAallo/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/YashAallo/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashAallo/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
