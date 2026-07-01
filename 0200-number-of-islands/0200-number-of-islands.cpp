@@ -13,28 +13,20 @@ class Solution {
         q.push({i, j});
 
         while (!q.empty()) {
-            int sz = q.size();
 
-            while (sz) {
-                auto [a, b] = q.front();
-                q.pop();
+            auto [a, b] = q.front();
+            q.pop();
 
-                cout << "{" << a << "," << b << "}"
-                     << " ";
+            for (int k = 0; k < 4; k++) {
+                int r = a + row[k];
+                int c = b + col[k];
 
-                for (int k = 0; k < 4; k++) {
-                    int r = a + row[k];
-                    int c = b + col[k];
-
-                    if (r >= 0 && r < m && c >= 0 && c < n && !visited[r][c] &&
-                        grid[r][c] == '1') {
-                        q.push({r, c});
-                        visited[r][c]=1;
-                    }
+                if (r >= 0 && r < m && c >= 0 && c < n && !visited[r][c] &&
+                    grid[r][c] == '1') {
+                    q.push({r, c});
+                    visited[r][c] = 1;
                 }
-                sz--;
             }
-            cout << endl;
         }
     }
 
@@ -49,7 +41,7 @@ public:
         int count = 0;
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if (!visited[i][j] && grid[i][j]=='1') {
+                if (!visited[i][j] && grid[i][j] == '1') {
 
                     bfs(grid, visited, i, j);
                     count++;
