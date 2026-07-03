@@ -1,3 +1,7 @@
+//if you are resolving , this is not optimal solution
+//Apply coloring method : next time
+//watch other people sumbission if you dont understand
+
 class Solution {
     bool bfs(vector<vector<int>>& graph, vector<int>& visited, int node) {
         queue<pair<int, int>> q;
