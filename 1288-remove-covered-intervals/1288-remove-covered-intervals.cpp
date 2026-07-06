@@ -4,7 +4,7 @@ public:
 
         int n = intervals.size();
 
-        sort(intervals.begin(), intervals.end(), [](auto a, auto b) {
+        sort(intervals.begin(), intervals.end(), [](auto &a, auto &b) {
             if (a[0] == b[0])
                 return a[1] > b[1];
 
