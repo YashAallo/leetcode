@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashAallo/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/YashAallo/leetcode/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/YashAallo/leetcode/tree/master/0143-reorder-list) |
 | [1048-longest-string-chain](https://github.com/YashAallo/leetcode/tree/master/1048-longest-string-chain) |
 ## String
 |  |
@@ -199,4 +200,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashAallo/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YashAallo/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/YashAallo/leetcode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/YashAallo/leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/YashAallo/leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
