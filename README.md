@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/YashAallo/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashAallo/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/YashAallo/leetcode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/YashAallo/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/YashAallo/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YashAallo/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashAallo/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/YashAallo/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/YashAallo/leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/YashAallo/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/YashAallo/leetcode/tree/master/1048-longest-string-chain) |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YashAallo/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/YashAallo/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
