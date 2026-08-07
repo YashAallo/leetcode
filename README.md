@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/YashAallo/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/YashAallo/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/YashAallo/leetcode/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/YashAallo/leetcode/tree/master/0368-largest-divisible-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YashAallo/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/YashAallo/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/YashAallo/leetcode/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
