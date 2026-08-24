@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/YashAallo/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/YashAallo/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YashAallo/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/YashAallo/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YashAallo/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/YashAallo/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/YashAallo/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/YashAallo/leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/YashAallo/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/YashAallo/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Quicksort
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/YashAallo/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/YashAallo/leetcode/tree/master/0229-majority-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/YashAallo/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
